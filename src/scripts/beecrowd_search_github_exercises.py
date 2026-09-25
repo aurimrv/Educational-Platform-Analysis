@@ -2,49 +2,49 @@ import os
 import re
 import pandas as pd
 
-def extrair_numeros_auto_subpastas():
-    # Detecta a pasta onde o script está sendo executado
-    pasta_raiz = os.getcwd()
+def extract_numbers_auto_subfolders():
+    # Detects the directory where the script is running
+    root_dir = os.getcwd()
     
-    print(f"Iniciando varredura na pasta atual e subdiretórios:\n{pasta_raiz}\n")
+    print(f"Starting scan in the current directory and subdirectories:\n{root_dir}\n")
     
-    padrao = re.compile(r"S_(\d+)_", re.IGNORECASE)
-    dados = []
+    pattern = re.compile(r"S_(\d+)_", re.IGNORECASE)
+    data = []
 
-    # Percorre a pasta atual e todas as subpastas
-    for raiz, _dirs, arquivos in os.walk(pasta_raiz):
-        subpasta_relativa = os.path.relpath(raiz, pasta_raiz)
-        if subpasta_relativa == ".":
-            subpasta_relativa = "(Pasta Raiz)"
+    # Traverses the current directory and all subfolders
+    for root, _dirs, files in os.walk(root_dir):
+        relative_subfolder = os.path.relpath(root, root_dir)
+        if relative_subfolder == ".":
+            relative_subfolder = "(Root Directory)"
 
-        for arquivo in arquivos:
-            match = padrao.search(arquivo)
+        for file in files:
+            match = pattern.search(file)
             if match:
-                numero = int(match.group(1))
-                dados.append({
-                    "Número": numero,
-                    "Subpasta": subpasta_relativa,
-                    "Nome do Arquivo": arquivo,
-                    "Caminho Completo": os.path.join(raiz, arquivo)
+                number = int(match.group(1))
+                data.append({
+                    "Number": number,
+                    "Subfolder": relative_subfolder,
+                    "File Name": file,
+                    "Full Path": os.path.join(root, file)
                 })
 
-    if not dados:
-        print("Nenhum arquivo correspondente ao padrão foi encontrado.")
+    if not data:
+        print("No files matching the pattern were found.")
         return
 
-    # Estrutura os dados e ordena numericamente
-    df = pd.DataFrame(dados)
-    df = df.sort_values(by="Número")
+    # Structure data and sort numerically
+    df = pd.DataFrame(data)
+    df = df.sort_values(by="Number")
 
-    excel_saida = "numeros_beecrowd.xlsx"
-    csv_saida = "numeros_beecrowd.csv"
+    excel_output = "beecrowd_numbers.xlsx"
+    csv_output = "beecrowd_numbers.csv"
 
-    df.to_excel(excel_saida, index=False)
-    df.to_csv(csv_saida, index=False, encoding="utf-8-sig")
+    df.to_excel(excel_output, index=False)
+    df.to_csv(csv_output, index=False, encoding="utf-8-sig")
 
-    print("Varredura concluída com sucesso!")
-    print(f"Total de arquivos encontrados: {len(df)}")
-    print(f"Planilha gerada: {os.path.abspath(excel_saida)}")
+    print("Scan completed successfully!")
+    print(f"Total files found: {len(df)}")
+    print(f"Spreadsheet generated: {os.path.abspath(excel_output)}")
 
 if __name__ == "__main__":
-    extrair_numeros_auto_subpastas()
+    extract_numbers_auto_subfolders()
