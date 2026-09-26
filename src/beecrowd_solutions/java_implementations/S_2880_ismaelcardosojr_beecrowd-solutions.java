@@ -14,7 +14,7 @@ In this problem, given a ciphertext and a crib, your program must compute the nu
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B2880 {
+public class Main {
 
     public static boolean getCribFitting(String cipherPart, String crib) {
         for (int i = 0; i < cipherPart.length(); i++) {

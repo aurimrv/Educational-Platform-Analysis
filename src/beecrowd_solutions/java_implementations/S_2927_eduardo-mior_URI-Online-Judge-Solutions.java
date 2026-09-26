@@ -35,7 +35,7 @@ package Ad-Hoc;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 2927 {
+public class Main 2927 {
 
     public static void main(String[] args) throws IOException {
     	Scanner leitor = new Scanner(System.in);

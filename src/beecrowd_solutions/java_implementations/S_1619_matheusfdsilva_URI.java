@@ -1,5 +1,3 @@
-package URI;
-
 import java.time.Duration;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -7,7 +5,7 @@ import java.time.LocalTime;
 import java.time.Period;
 import java.util.Scanner;
 
-public class URI_1619 {
+public class Main {
 	
 	public static void main(String[] args) {
 		

@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class URI_1652 {
+public class Main {
 
 	private static String vogals = "aeiou";
 	

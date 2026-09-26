@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class B1254 {
+public class Main {
 
     private static final BufferedReader IN = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter OUT = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -15,7 +15,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class B1551 {
+public class Main {
 
     public static int countPhraseDistinctLetters(String testPhrase) {
         int phraseDistinctLetters = 0;

@@ -24,7 +24,7 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class URI 1171 {
+public class Main 1171 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);

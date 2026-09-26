@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -28,7 +26,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class URI 2653 {
+public class Main 2653 {
 
     public static void main(String[] args) throws IOException {
     	Scanner leitor = new Scanner(System.in);

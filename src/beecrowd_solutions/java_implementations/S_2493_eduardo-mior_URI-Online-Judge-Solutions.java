@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -37,7 +35,7 @@ import java.util.Scanner;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
-public class URI 2493 {
+public class Main 2493 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);

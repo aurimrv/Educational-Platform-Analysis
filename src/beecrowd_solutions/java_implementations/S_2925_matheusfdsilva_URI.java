@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI_2925 {
+public class Main {
 
 	private static List<Long> iccanobif = new ArrayList<>();	
 	

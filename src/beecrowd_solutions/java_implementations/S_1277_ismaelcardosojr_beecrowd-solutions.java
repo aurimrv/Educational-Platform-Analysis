@@ -12,7 +12,7 @@ Each test case is composed of three input lines:
 lowercase letters (‘A’-‘Z’,‘a’-‘z’).
 - The third line will contain N attendance records, corresponding to their respective students from the previous line. The attendance records will be separated 
 by a single space character, and contain only ‘A’, ‘P’ and ‘M’ characters. A ‘P’ indicates that the student was present in a class, ‘A’ shows that he was 
-absent (he did not attend) and ‘M’ shows that he was absent for a class but submitted a doctor's note then that class is not counted when calculating his 
+absent (he did not attend) and ‘M’ shows that he was absent for a class Main submitted a doctor's note then that class is not counted when calculating his 
 attendance percentage. An attendance record will contain at least one ‘A’ or ‘P’ character.
 */
 

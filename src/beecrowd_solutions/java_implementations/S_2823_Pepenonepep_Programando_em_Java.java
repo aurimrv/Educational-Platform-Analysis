@@ -81,13 +81,10 @@ A saída consiste de uma única linha, contendo ou o string OK ou do string FAIL
 
 /*O nome da classe deve ser "Main" para que a sua solução execute */
 /* Retire: "package Interesting_problems_beecrowd;" */
-
-package Interesting_problems_beecrowd;
-
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Problem_2823_Eearliest_Deadline_First {
+public class Main {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 

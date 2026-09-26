@@ -23,7 +23,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class B3103 {
+public class Main {
 
     private static final BufferedReader IN = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter OUT = new BufferedWriter(new OutputStreamWriter(System.out));

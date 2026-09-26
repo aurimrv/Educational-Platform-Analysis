@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -29,7 +27,7 @@ package Iniciante;
 
 import java.io.IOException;
 
-public class URI 2754 {
+public class Main 2754 {
 	
     public static void main(String[] args) throws IOException {
     	double A = 234.345;

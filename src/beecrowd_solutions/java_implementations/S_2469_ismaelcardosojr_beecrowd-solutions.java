@@ -1,5 +1,5 @@
 /*
-Professor Archimedes needs your help to find out which is the most common notes between the notes that students took in his last race. The class has N students 
+Professor Archimedes needs your help to find out which is the most common notes between the notes that students took in his last race. The class Main N students 
 and your program must print the note that appears more often in N notes list. If more than more frequent note, you must print the biggest one! For example, 
 if the class has N = 10 students and grades are [20, 25, 85, 40, 25, 90, 25, 40, 55, 40], the most common grades are 25 and 40, taking place three times each. 
 Your program should then print 40.

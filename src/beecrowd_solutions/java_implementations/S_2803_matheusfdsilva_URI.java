@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_2803 {
+public class Main {
 	
 	public static final String NORT_REGION = "roraima acre amapa amazonas para rondonia tocantins";
 			

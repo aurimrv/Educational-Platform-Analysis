@@ -1,5 +1,3 @@
-package Matemática;
-
 /*
 
  QUESTÃO
@@ -24,7 +22,7 @@ package Matemática;
 
 import java.util.Scanner;
 
-public class URI 2890 {
+public class Main 2890 {
 	
 	public final static int MOD = 1000007;
 

@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Objects;
 
 
-public class URI2136 {
+public class Main {
 
     public static class Participant{
         String name;

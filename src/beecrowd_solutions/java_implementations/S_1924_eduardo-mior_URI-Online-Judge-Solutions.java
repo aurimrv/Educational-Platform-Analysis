@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -29,7 +27,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class URI 1924 {
+public class Main 1924 {
 	
     public static void main(String[] args) throws IOException {
 		BufferedReader leitor = new BufferedReader(new InputStreamReader(System.in));

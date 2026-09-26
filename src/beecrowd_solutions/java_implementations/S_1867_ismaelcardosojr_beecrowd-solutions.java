@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class B1867 {
+public class Main {
 
     public static int reduceNumDigits(String originalNum) {
         if (originalNum.length() == 1) {

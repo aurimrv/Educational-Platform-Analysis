@@ -22,7 +22,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.HashSet;
 
-public class B2583 {
+public class Main {
 
     private static final BufferedReader IN = new BufferedReader(new InputStreamReader(System.in));
     private static final BufferedWriter OUT = new BufferedWriter(new OutputStreamWriter(System.out));

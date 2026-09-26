@@ -2,7 +2,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.io.BufferedReader;
 
-public class Ex1130 {
+public class Main {
     static boolean jogada(StringBuffer tabuleiro) {
         if (tabuleiro.indexOf("XXX") != -1) {
             return true;

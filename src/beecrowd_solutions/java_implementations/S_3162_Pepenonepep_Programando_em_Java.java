@@ -39,13 +39,10 @@ Uma linha para cada nave, indicando uma letra para a intensidade de sinal entre 
 
 /*O nome da classe deve ser "Main" para que a sua solução execute */
 /* Retire: "package Interesting_problems_beecrowd;" */
-
-package Interesting_problems_beecrowd;
-
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Problem_3162_Space_Communication {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);

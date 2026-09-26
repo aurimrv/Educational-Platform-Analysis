@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_2654 {
+public class Main {
 
 	public static String godofor = null;
 	public static int maiorPoder = 0, maiorKill = 0, menasMorte = 0;

@@ -1,10 +1,8 @@
-package ad_hoc;
-
 import java.util.Calendar;
 import java.util.Scanner;
 
 //https://www.urionlinejudge.com.br/judge/en/problems/view/1420
-public class CountingSeconds1420 {
+public class Main {
 	static int[] baseDateTime;
 	static int seconds;
 	static int YEARSECONDS = 31536000;// ONE YEAR WITH 365 DAYS IN SECONDS

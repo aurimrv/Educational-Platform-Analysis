@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class URI_2464 {
+public class Main {
 
 	public static void main(String[] args) {
 		

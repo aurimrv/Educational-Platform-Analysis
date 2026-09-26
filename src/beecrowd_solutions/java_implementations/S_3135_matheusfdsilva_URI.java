@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.*;
 
-public class URI_3135 {
+public class Main {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main2596{
+class Main{
 
     public static void main(String[] args) {
 

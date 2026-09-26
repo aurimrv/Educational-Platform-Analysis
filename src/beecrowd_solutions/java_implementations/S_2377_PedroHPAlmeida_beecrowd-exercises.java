@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex2377 { // para ser aceito no URI mude o nome da classe para Main
+public class Main { // para ser aceito no URI mude o nome da classe para Main
     public static void main(String[] args) {
         // variaveis & objetos
         Scanner scanner = new Scanner(System.in);

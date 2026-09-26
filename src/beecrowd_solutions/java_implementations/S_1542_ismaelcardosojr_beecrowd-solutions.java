@@ -10,7 +10,7 @@ pages has the book?
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B1542 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         Scanner inp = new Scanner(System.in);

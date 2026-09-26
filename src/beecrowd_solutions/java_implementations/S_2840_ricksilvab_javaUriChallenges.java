@@ -1,10 +1,8 @@
-package computionalGeometry;
-
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class Balloon2840 {
+public class Main {
 	
 	private final static double PI = 3.1415;
 	

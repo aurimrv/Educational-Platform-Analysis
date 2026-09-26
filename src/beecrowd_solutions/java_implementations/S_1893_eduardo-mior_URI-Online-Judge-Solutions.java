@@ -28,7 +28,7 @@ package Ad-Hoc;
 
 import java.util.Scanner;
 
-public class URI 1893 {
+public class Main 1893 {
 
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);

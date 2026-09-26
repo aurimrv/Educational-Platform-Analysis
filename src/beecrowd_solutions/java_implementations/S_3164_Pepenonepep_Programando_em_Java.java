@@ -57,14 +57,11 @@ Para cada caso de teste, imprima o valor da multa Xi que a empresa irá pagar (0
 
 // PT: Usando multiplicador 0.5 (ao inves de 1.5) devido a um erro matematico no gabarito do beecrowd.
 // EN: Using multiplier 0.5 (instead of 1.5) due to a math error in beecrowd's test cases.
-
-package Interesting_problems_beecrowd;
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problem_3164_Inspection_On_Company {
+public class Main {
 
     public static boolean KHasFraction(double k) {
         return (k - (int) k) != 0;

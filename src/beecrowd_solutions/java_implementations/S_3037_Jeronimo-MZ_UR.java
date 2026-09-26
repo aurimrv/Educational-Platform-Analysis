@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-public class URI3037 {
+public class Main {
 	public static void main(String[] args) throws IOException {
 		Scanner teclado = new Scanner(System.in);
 		int N = teclado.nextInt();

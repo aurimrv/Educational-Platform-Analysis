@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -29,7 +27,7 @@ package Iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 2721 {
+public class Main 2721 {
 
 	private static final String[] RENAS = {"Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen", "Rudolph"};
 	

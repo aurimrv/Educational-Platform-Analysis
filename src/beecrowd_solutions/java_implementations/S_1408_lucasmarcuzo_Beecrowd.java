@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main1408 {
+public class Main {
 
     public static int n,l;
     public static int[] Num_armarios = new int[100000];

@@ -17,7 +17,7 @@ In this problem, given a positive integer, your task is to compute the highest n
 
 import java.util.Scanner;
 
-public class B1441 {
+public class Main {
 
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main1010{
+public class Main{
 	public static void main(String[] args){
 	    Scanner scanner = new Scanner(System.in);
 	    int cod01 = scanner.nextInt();

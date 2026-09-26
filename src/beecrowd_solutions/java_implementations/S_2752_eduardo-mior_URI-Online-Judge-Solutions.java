@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -26,7 +24,7 @@ package Iniciante;
 
 import java.io.IOException;
 
-public class URI 2752 {
+public class Main 2752 {
 	
     public static void main(String[] args) throws IOException {
     	String A = "AMO FAZER EXERCICIO NO URI";

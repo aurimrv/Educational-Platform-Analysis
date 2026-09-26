@@ -1,5 +1,3 @@
-package Strings;
-
 /*
 
  QUESTÃO
@@ -31,7 +29,7 @@ package Strings;
 
 import java.util.Scanner;
 
-public class URI 1024 {
+public class Main 1024 {
 
 	public static void main(String[] args) {
 		// Instanciando o leitor e lendo o número de caso de testes

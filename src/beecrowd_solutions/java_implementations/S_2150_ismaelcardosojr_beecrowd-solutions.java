@@ -11,7 +11,7 @@ has.
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B2150 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         Scanner inp = new Scanner(System.in);

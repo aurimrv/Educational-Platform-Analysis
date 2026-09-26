@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class URI_3161 {
+public class Main {
 
     private static String[] fruits;
     private final static Set<String> eatFruits = new LinkedHashSet<>();

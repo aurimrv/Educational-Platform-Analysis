@@ -1,9 +1,7 @@
-package computionalGeometry;
-
 import java.util.Arrays;
 import java.util.Scanner;
 //https://www.urionlinejudge.com.br/judge/en/problems/view/1039
-public class FireFlowers1039 {
+public class Main {
 
 	public static void main (String args[]){
 		@SuppressWarnings("resource")

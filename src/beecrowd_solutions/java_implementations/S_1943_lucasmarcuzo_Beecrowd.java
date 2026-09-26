@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //Developed by: @LucasMarcuzo
 
-public class Main1943 {
+public class Main {
 
     public static void main(String[] args) {
         

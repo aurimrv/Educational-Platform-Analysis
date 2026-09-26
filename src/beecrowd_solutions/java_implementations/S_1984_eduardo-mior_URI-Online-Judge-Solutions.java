@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -29,7 +27,7 @@ package Iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 1984 {
+public class Main 1984 {
 	
 	// Método 1
     public static void main(String[] args) throws IOException {

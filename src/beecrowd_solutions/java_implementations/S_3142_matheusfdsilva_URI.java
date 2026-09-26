@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_3142 {
+public class Main {
 	
 	public static final String LETTER = " ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	

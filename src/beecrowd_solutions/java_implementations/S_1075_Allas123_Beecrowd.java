@@ -1,5 +1,3 @@
-package iniciante.bee1075;
-
 import java.util.Scanner;
 
 public class Main {

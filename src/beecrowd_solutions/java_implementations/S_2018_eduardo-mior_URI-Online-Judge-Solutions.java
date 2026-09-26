@@ -42,7 +42,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class URI2018 {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

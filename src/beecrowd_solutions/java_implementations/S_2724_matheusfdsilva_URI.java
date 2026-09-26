@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_2724 {
+public class Main {
 	
 	private static final String help = "e1234567890l";
 	

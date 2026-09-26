@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // URI_2866
 // Criptotexto
 
-public class URI_2866 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
 

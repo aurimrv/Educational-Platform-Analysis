@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 // URI_2590
 // Sete
 
-public class URI_2590 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
 

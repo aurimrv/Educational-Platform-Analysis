@@ -1,11 +1,9 @@
-package URI;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI_1147 {
+public class Main {
 	private static List<Integer> horseMoves = new ArrayList<>();
 	
 	public static void main(String[] args) {

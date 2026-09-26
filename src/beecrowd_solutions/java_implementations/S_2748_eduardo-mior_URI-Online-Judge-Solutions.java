@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -37,7 +35,7 @@ package Iniciante;
 
 import java.io.IOException;
 
-public class URI 2748 {
+public class Main 2748 {
 	
     public static void main(String[] args) throws IOException {
         for (int i = 1; i <= 7; i++) {

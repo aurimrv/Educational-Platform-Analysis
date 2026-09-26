@@ -1,7 +1,7 @@
 ﻿import java.io.IOException;
 import java.util.Scanner;
 
-public class beecrowd1083 {
+public class Main {
     
     static int contado = 0;
     static int contadoParent = 0;

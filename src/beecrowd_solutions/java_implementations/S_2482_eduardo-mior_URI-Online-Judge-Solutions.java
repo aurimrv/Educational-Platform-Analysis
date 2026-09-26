@@ -38,7 +38,7 @@ package Estruturas e Bibliotecas;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class URI 2482 {
+public class Main 2482 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

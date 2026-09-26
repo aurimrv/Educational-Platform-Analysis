@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class URI_1766 {
+public class Main {
 
 	public static void main(String[] args) {
 		

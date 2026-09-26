@@ -1,5 +1,3 @@
-package Matemática;
-
 /*
  
  QUESTÃO
@@ -24,7 +22,7 @@ package Matemática;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 2839 {
+public class Main 2839 {
 
     public static void main(String[] args) throws IOException {
     	Scanner leitor = new Scanner(System.in);

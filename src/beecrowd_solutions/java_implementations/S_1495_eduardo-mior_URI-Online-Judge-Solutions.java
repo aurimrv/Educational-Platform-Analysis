@@ -39,7 +39,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI 1495 {
+public class Main 1495 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

@@ -1,5 +1,3 @@
-package Strings;
-
 /*
 
  QUESTÃO
@@ -39,7 +37,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI 1222 {
+public class Main 1222 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

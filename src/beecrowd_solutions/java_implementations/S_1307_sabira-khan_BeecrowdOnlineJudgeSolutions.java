@@ -1,8 +1,7 @@
-package com.gitproject;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Beecrowd1307_uri {
+public class Main {
 
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);

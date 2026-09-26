@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -34,7 +32,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class URI 2633 {
+public class Main 2633 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);

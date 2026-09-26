@@ -2,7 +2,7 @@ import java.util.*;
 
 //Developed by: @LucasMarcuzo
 
-public class Main2679 {
+public class Main {
     
     public static void main(String[] args) {
 

@@ -10,7 +10,7 @@ that validates passwords that are registered on the portal, for that you should 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B2253 {
+public class Main {
 
     public static boolean validateUpperAndLowerCaseRule(String password) {
         char passwordChars[] = password.toCharArray();

@@ -56,7 +56,7 @@ package Ad-Hoc;
 
 import java.util.Scanner;
 
-public class URI 1129 {
+public class Main 1129 {
 	
 	public static String[] alternatvas = {"A", "B", "C", "D", "E" };
 

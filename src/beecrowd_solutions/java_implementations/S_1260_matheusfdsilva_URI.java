@@ -1,11 +1,9 @@
-package URI;
-
 import java.util.Locale;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class URI_1260 {
+public class Main {
 
 	public static void main(String[] args) {
 		

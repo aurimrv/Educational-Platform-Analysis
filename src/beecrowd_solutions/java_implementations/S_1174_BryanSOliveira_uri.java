@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uri1174 {
+public class Main {
     public static void main(String[] args) {
         
         // ENTRADA

@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_1121 {
+public class Main {
 
 	private static final String FULL_DIRECTION = "ONLS";
 	private static Character ROBOT_DIRECTION = null;

@@ -1,6 +1,6 @@
 ﻿import java.util.Scanner;
 
-public class beecrowd2479 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ListaEncadeadaOrdenada<String> nomes = new ListaEncadeadaOrdenada<>();

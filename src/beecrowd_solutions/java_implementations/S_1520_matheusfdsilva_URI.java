@@ -1,11 +1,9 @@
-package URI;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI_1520 {
+public class Main {
 
 	private static List<Integer> list = new ArrayList<>();
 	

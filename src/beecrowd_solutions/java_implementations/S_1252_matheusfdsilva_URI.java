@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class URI_1252 {
+public class Main {
 
 	public static int div;
 	

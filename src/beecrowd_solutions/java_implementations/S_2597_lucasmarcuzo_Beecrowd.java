@@ -3,7 +3,7 @@ import static org.joou.Unsigned.*;
 
 //Developed by: @LucasMarcuzo
 
-class Main2597{
+class Main{
 
     public static void main(String[] args) {
 

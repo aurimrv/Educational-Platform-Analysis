@@ -1,4 +1,3 @@
-package URI_Problems_solution;
 /**
 				10 12
 				10 14
@@ -9,7 +8,7 @@ package URI_Problems_solution;
  */
 import java.util.Scanner;
 
-public class URI_1198 {
+public class Main {
 
 	public static void main(String[] args) {
 		int pl1, pl2 , difference;

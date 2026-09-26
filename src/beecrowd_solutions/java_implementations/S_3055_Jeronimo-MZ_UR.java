@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class URI3055 {
+public class Main {
 	public static void main(String args[]){
 		Scanner teclado = new Scanner(System.in);
 		int A, B, media;

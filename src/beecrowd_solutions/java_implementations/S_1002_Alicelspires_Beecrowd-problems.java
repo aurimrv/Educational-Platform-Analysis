@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main1002{
+public class Main{
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
 	    double raio = scanner.nextDouble();

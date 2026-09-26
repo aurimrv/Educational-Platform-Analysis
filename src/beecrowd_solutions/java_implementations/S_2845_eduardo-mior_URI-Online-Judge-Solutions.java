@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -43,7 +41,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class URI 2845 {
+public class Main 2845 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);

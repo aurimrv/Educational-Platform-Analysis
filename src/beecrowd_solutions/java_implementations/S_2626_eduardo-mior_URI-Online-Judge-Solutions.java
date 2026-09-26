@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -35,7 +33,7 @@ package Iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 2626 {
+public class Main 2626 {
 
 	private static final String PEDRA = "pedra";
 	private static final String PAPEL = "papel";

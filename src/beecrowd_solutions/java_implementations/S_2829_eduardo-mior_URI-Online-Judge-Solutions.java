@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
 
  QUESTÃO
@@ -30,7 +28,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class URI 2829 {
+public class Main 2829 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

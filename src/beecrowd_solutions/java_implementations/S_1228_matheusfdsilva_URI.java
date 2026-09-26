@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_1228 {
+public class Main {
 
 	public static void main(String[] args) {
 		

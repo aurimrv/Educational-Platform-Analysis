@@ -18,7 +18,7 @@ Note: an empty string does not represent a valid integer.
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B1287 {
+public class Main {
 
     public static boolean validateOriginalText(String originalText) {
         if (originalText.isBlank() || originalText.contains("-")) {

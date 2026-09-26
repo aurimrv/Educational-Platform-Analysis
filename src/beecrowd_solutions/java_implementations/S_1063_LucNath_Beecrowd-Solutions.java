@@ -1,6 +1,6 @@
 ﻿import java.io.IOException;
 import java.util.Scanner;
-public class beecrowd1063 {
+public class Main {
     public static void main(String[] args) throws IOException {
         Scanner Sc = new Scanner(System.in);
         ordem_vagoes B = new ordem_vagoes();

@@ -11,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class B2651 {
+public class Main {
 
     public static boolean containsIgnoreCase(String fanLetter, final String forbiddenTerm) {
         final int substringLength = forbiddenTerm.length();

@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_1196 {
+public class Main {
 		
 	private static String ST = "`1234567890-=QWERTYUIOP[]\\ASDFGHJKL;'ZXCVBNM,./";	
 	

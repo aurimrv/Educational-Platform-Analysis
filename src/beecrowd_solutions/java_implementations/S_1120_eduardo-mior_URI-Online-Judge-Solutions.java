@@ -1,5 +1,3 @@
-package Strings;
-
 /*
 
  QUESTÃO
@@ -35,7 +33,7 @@ package Strings;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class URI 1120 {
+public class Main 1120 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

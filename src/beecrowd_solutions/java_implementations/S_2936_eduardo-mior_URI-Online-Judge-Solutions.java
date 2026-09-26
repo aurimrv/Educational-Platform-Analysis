@@ -36,7 +36,7 @@ package Ad-Hoc;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI 2936 {
+public class Main 2936 {
 	
     public static final int[] porcoes = { 300, 1500, 600, 1000, 150 };
 

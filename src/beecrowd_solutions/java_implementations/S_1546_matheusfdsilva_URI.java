@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_1546 {
+public class Main {
 
 	private static final String[] names = {"Rolien", "Naej", "Elehcim", "Odranoel"};
 	

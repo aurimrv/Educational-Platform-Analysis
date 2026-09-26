@@ -16,7 +16,7 @@ wrote down is a tautogram or not.
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B1140 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         Scanner inp = new Scanner(System.in);

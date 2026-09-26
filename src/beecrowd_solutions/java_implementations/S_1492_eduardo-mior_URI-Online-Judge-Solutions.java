@@ -1,5 +1,3 @@
-package Matemática;
-
 /*
 
  QUESTÃO
@@ -36,7 +34,7 @@ package Matemática;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class URI 1492 {
+public class Main 1492 {
 
 	public static long[][][] dp = new long[60][60][2];
 

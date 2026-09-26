@@ -1,8 +1,6 @@
-package URI;
-
 import java.util.Scanner;
 
-public class URI_1632 {
+public class Main {
 
 	private static String letters = "aAeEiIoOSs";
 	

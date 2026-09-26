@@ -1,7 +1,5 @@
-package com.gitproject;
-
 import java.util.Scanner;
-public class Beecrowd2561_uri {
+public class Main {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String input = s.nextLine();

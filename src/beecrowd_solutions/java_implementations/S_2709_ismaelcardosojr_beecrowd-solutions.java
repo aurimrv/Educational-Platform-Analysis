@@ -14,7 +14,7 @@ You as a good developer of U.S Robots, will help this two friends, writting a co
 import java.io.IOException;
 import java.util.Scanner;
 
-public class B2709 {
+public class Main {
 
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in);

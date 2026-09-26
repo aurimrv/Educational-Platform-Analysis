@@ -1,5 +1,3 @@
-package Strings;
-
 /*
 
  QUESTÃO
@@ -37,7 +35,7 @@ package Strings;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class URI 1367 {
+public class Main 1367 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

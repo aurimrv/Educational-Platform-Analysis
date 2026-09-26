@@ -1,5 +1,3 @@
-package URI_Problems_solution;
-
 import java.util.Scanner;
 
 /**
@@ -10,7 +8,7 @@ import java.util.Scanner;
 			120
 
  */
-public class URI_1197 {
+public class Main {
 
 	public static void main(String[] args) {
 		int v, t , s, double_S;

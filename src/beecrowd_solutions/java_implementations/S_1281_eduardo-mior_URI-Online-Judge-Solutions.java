@@ -29,7 +29,7 @@ package Estruturas e Bibliotecas;
 
 import java.util.Scanner;
 
-public class URI 1281 {
+public class Main 1281 {
 
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);

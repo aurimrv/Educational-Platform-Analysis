@@ -1,5 +1,3 @@
-package Iniciante;
-
 /*
  
  QUESTÃO
@@ -48,7 +46,7 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class URI 2758 {
+public class Main 2758 {
 
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);

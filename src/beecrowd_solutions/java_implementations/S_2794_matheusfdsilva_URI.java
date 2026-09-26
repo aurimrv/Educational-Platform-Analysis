@@ -1,10 +1,8 @@
-package URI;
-
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class URI_2794 {
+public class Main {
 
 	public static void main(String[] args) {
 		

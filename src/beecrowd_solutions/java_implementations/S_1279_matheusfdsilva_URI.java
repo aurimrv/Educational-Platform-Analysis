@@ -1,9 +1,7 @@
-package URI;
-
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class URI_1279 {
+public class Main {
 
 	private static BigInteger zero = BigInteger.ZERO;
 	private static BigInteger quatro = new BigInteger("4");
