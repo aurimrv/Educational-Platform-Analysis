@@ -1,0 +1,4020 @@
+  - Problem: 1410
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1871
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2787
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1495
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1075
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1547
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1004
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2582
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2764
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1407
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3142
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2815
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1789
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1435
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1101
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1898
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1893
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1173
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1158
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2342
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1890
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2596
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1066
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1180
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1536
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1194
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1451
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2762
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1921
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2747
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2663
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1110
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1052
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2587
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1104
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2126
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2542
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1803
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1615
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1069
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2765
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2540
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2454
+  - User: Gustavo-Damaceno
+  - Project: Exercicios-URI-Online-Judge
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1133
+  - User: BryanSOliveira
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3140
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1960
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1858
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1985
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1958
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2794
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1277
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2544
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1786
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2017
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1147
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1237
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1796
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2581
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1061
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2691
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2381
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1251
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2533
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1305
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1211
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1533
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1096
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1546
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3039
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1000
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1094
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2157
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1065
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2780
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1512
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2547
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2444
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2786
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2728
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2059
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1073
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1770
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1079
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1063
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1957
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2763
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2456
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3137
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1664
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2520
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1040
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2791
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3358
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1047
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2344
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1933
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3346
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1408
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2108
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2924
+  - User: Gustavo-Damaceno
+  - Project: Exercicios-URI-Online-Judge
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2057
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2455
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2879
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2961
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2682
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2018
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2139
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3344
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1046
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2147
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2166
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1379
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1430
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1157
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1026
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1303
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2172
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1929
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1984
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2136
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1175
+  - User: BryanSOliveira
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2674
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2311
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2635
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2702
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2721
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2029
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1312
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3117
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2839
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3041
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1281
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1016
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2373
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2483
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2464
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2654
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1153
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1612
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1017
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2927
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1008
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1708
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2936
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3163
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1009
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2486
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3046
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2087
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1632
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1763
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2180
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1001
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1622
+  - User: uri-solutions
+  - Project: problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1478
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1397
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1103
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1039
+  - User: ricksilvab
+  - Project: javaUriChallenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1142
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2949
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2590
+  - User: g-otn
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2338
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2871
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1983
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1914
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1253
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1045
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1827
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1244
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1154
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1901
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2598
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3146
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3042
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2174
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1607
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2060
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2715
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2930
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2987
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2670
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2803
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2031
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2916
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2963
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1221
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3076
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2168
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2758
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1254
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3145
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3055
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1963
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2414
+  - User: ethior0
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1240
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2460
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2866
+  - User: g-otn
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1149
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1420
+  - User: ricksilvab
+  - Project: javaUriChallenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1828
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1287
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1161
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1121
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3214
+  - User: mulucas
+  - Project: beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2779
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2242
+  - User: g-otn
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1609
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1437
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2176
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2867
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1652
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1467
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1542
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1553
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3091
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1067
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2535
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2733
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2712
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2058
+  - User: mulucas
+  - Project: beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1541
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1071
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3037
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3135
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2724
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1212
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2203
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2947
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1866
+  - User: Ddavidi
+  - Project: uri-online-judge-beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1739
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1759
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1070
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1120
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1585
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2334
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1805
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2138
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1060
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1800
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2714
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1238
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2591
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3097
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2043
+  - User: uri-solutions
+  - Project: problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2685
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2567
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1116
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1080
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1113
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1159
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2592
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2062
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2161
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2755
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1118
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2497
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2377
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1134
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2650
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2516
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3093
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2469
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1521
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2568
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3048
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1247
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2761
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3176
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2756
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2356
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2783
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1188
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1132
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1117
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2759
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1364
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2049
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2482
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2564
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2149
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3311
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2473
+  - User: ethior0
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2091
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2749
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1074
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2708
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2774
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1003
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2600
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1256
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2339
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1198
+  - User: ManiruzzamanAkash
+  - Project: URI-Online-Judge-All-Problems-Solution
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2413
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3174
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1129
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1300
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1011
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2754
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1578
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2453
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2922
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1088
+  - User: uri-solutions
+  - Project: problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2150
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1160
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1228
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1022
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1002
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1015
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2388
+  - User: mulucas
+  - Project: beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1245
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3068
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1507
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2534
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3224
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1308
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2408
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2416
+  - User: mulucas
+  - Project: beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1250
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1028
+  - User: ethior0
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1099
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1043
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2479
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1181
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1257
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1285
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2292
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1163
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1779
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1523
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1847
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2686
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1136
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2679
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1151
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2861
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2143
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1087
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2023
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1864
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2523
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2651
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2925
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1837
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3129
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2003
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1234
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1164
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1171
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1627
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1041
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3139
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2140
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1051
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1068
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1310
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1083
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1131
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1048
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2694
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1959
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3059
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1186
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1556
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2830
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2770
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1035
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1140
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2164
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1049
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1218
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1064
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2928
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3060
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2530
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2693
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1273
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2653
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1516
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2028
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1962
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2162
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2434
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1078
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1873
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1267
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1165
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2846
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1169
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1036
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2951
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1429
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1219
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1179
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1168
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1766
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1241
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1271
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1278
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1050
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2222
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1557
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1760
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1728
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3299
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2551
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1025
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2496
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3040
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1715
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1177
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1383
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3357
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1534
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2690
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1709
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2748
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1540
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1318
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2410
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3147
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1145
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2409
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1202
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2984
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2950
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2680
+  - User: uri-solutions
+  - Project: problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1441
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2457
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1403
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1062
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1555
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2802
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1263
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1030
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1564
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1130
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3103
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3342
+  - User: mulucas
+  - Project: beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2253
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1007
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1808
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2729
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1867
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1077
+  - User: LucNath
+  - Project: Beecrowd-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2678
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1125
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1020
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1492
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1156
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1185
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1162
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1911
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2234
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1222
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1589
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2484
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2552
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1260
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2435
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3161
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1243
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1197
+  - User: ManiruzzamanAkash
+  - Project: URI-Online-Judge-All-Problems-Solution
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2146
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2709
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1861
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1266
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2727
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1248
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2597
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1276
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3038
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2862
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1574
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1449
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3241
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2848
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1296
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1768
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2631
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1551
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1895
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3034
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1217
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1924
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2757
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1618
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2006
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2557
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1961
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1170
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2374
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1115
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1419
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1095
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1091
+  - User: brunoalvesmo
+  - Project: bootcamp-maratona-de-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1471
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1172
+  - User: BryanSOliveira
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2543
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1189
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2594
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1010
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2874
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1279
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1114
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1167
+  - User: Gustavo-Damaceno
+  - Project: Exercicios-URI-Online-Judge
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1272
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1793
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3128
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2850
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1076
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2896
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2868
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3053
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1743
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2417
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2165
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2926
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2718
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1261
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2626
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1973
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3004
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1098
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1486
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1216
+  - User: ethior0
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3124
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1196
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1769
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1023
+  - User: ethior0
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2235
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1174
+  - User: BryanSOliveira
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2163
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1514
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1548
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1005
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1309
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1195
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2813
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1375
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1105
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1018
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3089
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1193
+  - User: ricksilvab
+  - Project: javaUriChallenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2061
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2958
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1182
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1581
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2752
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2152
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3302
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1520
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1787
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2840
+  - User: ricksilvab
+  - Project: javaUriChallenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1235
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2510
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3138
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1097
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2863
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1059
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1246
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3170
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2982
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1794
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2760
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2159
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2554
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1619
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2808
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3058
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1192
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2968
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1037
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2807
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1387
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1252
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1006
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1183
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1340
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3088
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1012
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1144
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1329
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3106
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3126
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3162
+  - User: Pepenonepep
+  - Project: Programando_em_Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1178
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2569
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2845
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2561
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1239
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1255
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1150
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2890
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1014
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1215
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2502
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2375
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2852
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1107
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1190
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1021
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2730
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3065
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2826
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1176
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1425
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2583
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1332
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2829
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2167
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1155
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2179
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1013
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1515
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1448
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1865
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2160
+  - User: caio01
+  - Project: Beecrowd-Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1307
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1989
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2923
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3047
+  - User: Jeronimo-MZ
+  - Project: UR
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3084
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2632
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2766
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2137
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1029
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1532
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2310
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2717
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2175
+  - User: brunoalvesmo
+  - Project: bootcamp-maratona-de-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3096
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2322
+  - User: RobertoDebarba
+  - Project: uri-online-judge
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1367
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3157
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1943
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2584
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2630
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1024
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1187
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1262
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1072
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1214
+  - User: vicentejluz
+  - Project: desafios-programacao
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2293
+  - User: guisfco
+  - Project: uri
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2812
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1848
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1258
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2395
+  - User: PedroHPAlmeida
+  - Project: beecrowd-exercises
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1424
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2722
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2633
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1038
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1124
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3164
+  - User: Pepenonepep
+  - Project: Programando_em_Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1930
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2593
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2144
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2750
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2775
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2981
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3249
+  - User: Pepenonepep
+  - Project: Programando_em_Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1436
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3141
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3303
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3301
+  - User: lucasmarcuzo
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2493
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3209
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2221
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1944
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1031
+  - User: marcelopint
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1483
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1199
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2313
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1089
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1146
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2548
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2823
+  - User: Pepenonepep
+  - Project: Programando_em_Java
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1019
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2753
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1044
+  - User: Allas123
+  - Project: Beecrowd
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2782
+  - User: diegoborbadev
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1184
+  - User: eduardo-mior
+  - Project: URI-Online-Judge-Solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2466
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2844
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2704
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1259
+  - User: lucasbranddao
+  - Project: URI-Challenges
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1042
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2153
+  - User: matheusfdsilva
+  - Project: URI
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1558
+  - User: sabira-khan
+  - Project: BeecrowdOnlineJudgeSolutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 2880
+  - User: ismaelcardosojr
+  - Project: beecrowd-solutions
+  - Source Language: Java
+----------------------------------------
+  - Problem: 1143
+  - User: Alicelspires
+  - Project: Beecrowd-problems
+  - Source Language: Java
+----------------------------------------
+  - Problem: 3304
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1554
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1213
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3184
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2974
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 2129
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3253
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2785
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 2667
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2975
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 3102
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1306
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1798
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3078
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2877
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1457
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3278
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2044
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2711
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1697
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1602
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1855
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1274
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 3309
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1093
+  - User: potigol
+  - Project: beecrowd
+  - Source Language: Potigol
+----------------------------------------
+  - Problem: 1982
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1166
+  - User: potigol
+  - Project: beecrowd
+  - Source Language: Potigol
+----------------------------------------
+  - Problem: 3252
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2959
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2579
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2336
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1138
+  - User: potigol
+  - Project: beecrowd
+  - Source Language: Potigol
+----------------------------------------
+  - Problem: 3152
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2240
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1869
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1487
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2697
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2084
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2290
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3307
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2498
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2025
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 1341
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1829
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3090
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2956
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3049
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1904
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1586
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2386
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2135
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2864
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3257
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1582
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2536
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2218
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2699
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 2906
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 1378
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2683
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2869
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1629
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 3308
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2515
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1464
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2063
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1846
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3099
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2953
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1774
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3005
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3356
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1870
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1868
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 3256
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2954
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 2514
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2661
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3050
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1393
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2588
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 1875
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3195
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1722
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2518
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3255
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 1288
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3250
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1880
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2343
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2878
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2419
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2243
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1785
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3104
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3035
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3312
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3109
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3179
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2132
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 3173
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: Python
+----------------------------------------
+  - Problem: 3165
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2238
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 1376
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1286
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 3134
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 1084
+  - User: potigol
+  - Project: beecrowd
+  - Source Language: Potigol
+----------------------------------------
+  - Problem: 1630
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2769
+  - User: petbccufscar
+  - Project: beecrowd
+  - Source Language: C
+----------------------------------------
+  - Problem: 3271
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C
+----------------------------------------
+  - Problem: 2660
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2404
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 3251
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
+  - Problem: 2232
+  - User: danieljcksn
+  - Project: beecrowd-solutions
+  - Source Language: C++
+----------------------------------------
