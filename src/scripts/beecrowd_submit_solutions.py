@@ -35,7 +35,6 @@ def load_excel_problem_map(excel_path: str):
 
     headers = [cell.value for cell in sheet[1]]
 
-    # Determine column indexes
     id_col = headers.index("ID") + 1 if "ID" in headers else 1
     category_col = headers.index("Category") + 1 if "Category" in headers else None
     lang_col = headers.index("Language") + 1 if "Language" in headers else None
@@ -81,24 +80,18 @@ def update_excel_row(
     wb = openpyxl.load_workbook(excel_path)
     sheet = wb.active
 
-    # Write Language
     if cols_config["lang_col"]:
         sheet.cell(row=row_num, column=cols_config["lang_col"]).value = language_used
 
-    # Write Approval Status
     if cols_config["approved_col"]:
         sheet.cell(row=row_num, column=cols_config["approved_col"]).value = "Yes" if is_approved else "No"
 
-    # Write Justification
     if cols_config["just_col"]:
-        if is_approved:
-            sheet.cell(row=row_num, column=cols_config["just_col"]).value = ""
-        else:
-            sheet.cell(row=row_num, column=cols_config["just_col"]).value = verdict_text
+        sheet.cell(row=row_num, column=cols_config["just_col"]).value = "" if is_approved else verdict_text
 
     wb.save(excel_path)
     wb.close()
-    print(f"[Problem {problem_id}] Updated Excel -> Approved: {'Yes' if is_approved else 'No'} | Justification: '{verdict_text if not is_approved else ''}'")
+    print(f"[Problem {problem_id}] Excel updated -> Approved: {'Yes' if is_approved else 'No'} | Justification: '{verdict_text if not is_approved else ''}'")
 
 
 def login_to_beecrowd(page) -> bool:
@@ -127,7 +120,7 @@ def login_to_beecrowd(page) -> bool:
 
 
 def select_language(page, file_ext: str, category: str) -> str:
-    """Select Java or PostgreSQL/SQL from dropdown using JavaScript (bypasses Selectize.js hidden element timeouts)."""
+    """Select Java or PostgreSQL/SQL from dropdown using JavaScript."""
     is_sql = (file_ext.lower() == ".sql") or (category.upper() == "SQL")
 
     selected_name = page.evaluate(
@@ -181,8 +174,24 @@ def select_language(page, file_ext: str, category: str) -> str:
         return fallback
 
 
+def check_is_accepted(verdict_str: str) -> bool:
+    """Strict evaluation of submission verdict."""
+    s = verdict_str.strip().lower()
+    
+    # Negative patterns that mark a failure
+    rejection_terms = [
+        "errada", "wrong", "erro", "error", "excedido", 
+        "exceeded", "presentation", "apresentação", "compilação", "compilation"
+    ]
+    if any(term in s for term in rejection_terms):
+        return False
+
+    # Positive approval confirmation
+    return "aceito" in s or "accepted" in s
+
+
 def get_latest_submission_status(page, problem_id: str, max_retries: int = 6) -> str:
-    """Navigate to submission history and retrieve judgment result."""
+    """Navigate to submission history and retrieve judgment result for the specific problem."""
     runs_url = "https://judge.beecrowd.com/pt/runs"
     print(f"[Problem {problem_id}] Checking judgment status at {runs_url}...")
 
@@ -193,22 +202,29 @@ def get_latest_submission_status(page, problem_id: str, max_retries: int = 6) ->
 
             result = page.evaluate(
                 """
-                () => {
-                    const row = document.querySelector("table tbody tr");
-                    if (!row) return null;
-
-                    const cells = Array.from(row.querySelectorAll("td")).map(td => td.innerText.trim());
-                    return {
-                        problem: cells[2] || '',
-                        status: cells[4] || cells[3] || 'Unknown'
-                    };
+                (targetProbId) => {
+                    const rows = Array.from(document.querySelectorAll("table tbody tr"));
+                    for (let row of rows) {
+                        const cells = Array.from(row.querySelectorAll("td")).map(td => td.innerText.trim());
+                        const probText = cells[2] || '';
+                        
+                        // Ensure the row matches the target problem ID
+                        if (probText.includes(targetProbId)) {
+                            return {
+                                problem: probText,
+                                status: cells[4] || cells[3] || 'Unknown'
+                            };
+                        }
+                    }
+                    return null;
                 }
-            """
+            """,
+                str(problem_id),
             )
 
             if result and result.get("status"):
                 status = result["status"]
-                print(f"[Problem {problem_id}] Current status: {status} (Attempt {attempt + 1}/{max_retries})")
+                print(f"[Problem {problem_id}] Status retrieved: '{status}' (Attempt {attempt + 1}/{max_retries})")
 
                 if any(p in status.lower() for p in ["em fila", "queue", "compilando", "compiling", "executando"]):
                     time.sleep(4)
@@ -235,10 +251,8 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
         editor_selector = "#source-code, textarea[name='source_code'], .ace_editor"
         page.wait_for_selector(editor_selector, state="attached", timeout=10000)
 
-        # Select language (Java or PostgreSQL)
         language_used = select_language(page, file_ext, category)
 
-        # Inject solution into Ace Editor or fallback textarea
         print(f"[Problem {problem_id}] Injecting solution code...")
         inserted = page.evaluate(
             """
@@ -272,7 +286,6 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
         time.sleep(1)
 
-        # Click submit via JavaScript
         print(f"[Problem {problem_id}] Clicking Submit...")
         submitted = page.evaluate(
             """
@@ -292,9 +305,9 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
         )
 
         if submitted:
-            time.sleep(3)
+            time.sleep(4)
             status = get_latest_submission_status(page, problem_id)
-            is_accepted = any(kw in status.lower() for kw in ["accepted", "aceito", "100%"]) and "wrong" not in status.lower()
+            is_accepted = check_is_accepted(status)
             return status, is_accepted, language_used
         else:
             print(f"[Problem {problem_id}] Could not locate submit button.")
@@ -306,7 +319,7 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
 
 def find_solutions(base_dir: str, problem_map: dict):
-    """Locate solution files (.java, .sql, etc.) matching problem IDs in Excel."""
+    """Locate solution files matching problem IDs in Excel."""
     solutions = []
     base_path = Path(base_dir)
 
@@ -320,7 +333,6 @@ def find_solutions(base_dir: str, problem_map: dict):
 
             full_path = Path(root) / file
 
-            # Match numeric problem ID from folder name (problem_1000) or filename
             folder_match = re.search(r"(?:problem_)?(\d+)", Path(root).name, re.IGNORECASE)
             file_match = re.search(r"(\d+)", file)
 
@@ -360,7 +372,6 @@ def process_solution_files(page, problem_map: dict, cols_config: dict) -> None:
     print(f"Found {len(solutions)} solution file(s) to process.")
 
     for item in solutions:
-        # Skip problems already marked as 'Yes' in Excel
         if item["approved"].strip().lower() == "yes":
             print(f"\n[Problem {item['problem_id']}] Already marked as 'Yes' in Excel. Skipping.")
             continue
