@@ -323,7 +323,7 @@ def find_solutions(base_dir: str, problem_map: dict):
     solutions = []
     base_path = Path(base_dir)
 
-    valid_extensions = {".java"}
+    valid_extensions = {".java", ".sql"}
 
     for root, _, files in os.walk(base_path):
         for file in files:
