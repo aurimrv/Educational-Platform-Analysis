@@ -91,9 +91,9 @@ def load_excel_problem_map(excel_path: str):
     approved_col = headers.index("BeeCrowd Approved") + 1 if "BeeCrowd Approved" in headers else None
     just_col = headers.index("Justification") + 1 if "Justification" in headers else None
 
-    duration_col = headers.index("Execution Time") + 1 if "Execution Time" in headers else (
-        headers.index("Execution Time (s)") + 1 if "Execution Time (s)" in headers else None
-    )
+    start_time_col = headers.index("Start Time") + 1 if "Start Time" in headers else None
+    end_time_col = headers.index("End Time") + 1 if "End Time" in headers else None
+    duration_col = headers.index("Execution Time") + 1 if "Execution Time" in headers else None
 
     problem_map = {}
     for row in range(2, sheet.max_row + 1):
@@ -118,6 +118,8 @@ def load_excel_problem_map(excel_path: str):
         "lang_col": lang_col,
         "approved_col": approved_col,
         "just_col": just_col,
+        "start_time_col": start_time_col,
+        "end_time_col": end_time_col,
         "duration_col": duration_col,
     }
 
@@ -130,9 +132,11 @@ def update_excel_row(
     language_used: str,
     is_approved: bool,
     verdict_text: str,
+    start_time: datetime = None,
+    end_time: datetime = None,
     duration_seconds: float = None,
 ) -> None:
-    """Atualiza o resultado e apenas o tempo na planilha Excel."""
+    """Atualiza o resultado, horários de início/fim e tempo na coluna Execution Time."""
     wb = openpyxl.load_workbook(excel_path)
     sheet = wb.active
 
@@ -146,10 +150,26 @@ def update_excel_row(
         sheet.cell(row=row_num, column=cols_config["just_col"]).value = "" if is_approved else verdict_text
 
     max_col = sheet.max_column
+    if not cols_config["start_time_col"]:
+        max_col += 1
+        cols_config["start_time_col"] = max_col
+        sheet.cell(row=1, column=cols_config["start_time_col"]).value = "Start Time"
+
+    if not cols_config["end_time_col"]:
+        max_col += 1
+        cols_config["end_time_col"] = max_col
+        sheet.cell(row=1, column=cols_config["end_time_col"]).value = "End Time"
+
     if not cols_config["duration_col"]:
         max_col += 1
         cols_config["duration_col"] = max_col
         sheet.cell(row=1, column=cols_config["duration_col"]).value = "Execution Time"
+
+    if start_time:
+        sheet.cell(row=row_num, column=cols_config["start_time_col"]).value = start_time.strftime("%Y-%m-%d %H:%M:%S")
+
+    if end_time:
+        sheet.cell(row=row_num, column=cols_config["end_time_col"]).value = end_time.strftime("%Y-%m-%d %H:%M:%S")
 
     if duration_seconds is not None:
         sheet.cell(row=row_num, column=cols_config["duration_col"]).value = round(duration_seconds, 2)
@@ -157,8 +177,8 @@ def update_excel_row(
     wb.save(excel_path)
     wb.close()
 
-    dur_str = f"{round(duration_seconds, 2)}s" if duration_seconds is not None else 'N/A'
-    print(f"[Problema {problem_id}] Excel atualizado -> Aprovado: {'Yes' if is_approved else 'No'} | Justificação: '{verdict_text if not is_approved else ''}' | Tempo: {dur_str}")
+    time_info = f" | Início: {start_time.strftime('%H:%M:%S') if start_time else 'N/A'} | Fim: {end_time.strftime('%H:%M:%S') if end_time else 'N/A'} | Execution Time: {round(duration_seconds, 2) if duration_seconds is not None else 'N/A'}s"
+    print(f"[Problema {problem_id}] Excel atualizado -> Aprovado: {'Yes' if is_approved else 'No'} | Justificação: '{verdict_text if not is_approved else ''}'{time_info}")
 
 
 def get_latest_run_id(page) -> int:
@@ -445,14 +465,15 @@ def inject_code_into_editor(page, code: str) -> bool:
         return False
 
 
-def submit_solution(page, problem_id: str, code: str, file_ext: str, category: str) -> tuple[str, bool, str, float]:
+def submit_solution(page, problem_id: str, code: str, file_ext: str, category: str) -> tuple[str, bool, str, datetime, datetime, float]:
     """
     Processa o envio da solução e aguarda o veredito no /runs.
+    Retorna (status, is_accepted, language_used, start_time, end_time, duration_seconds).
     Pula imediatamente se o CAPTCHA aparecer na tela.
     """
     if not code or not code.strip():
         print(f"[Problema {problem_id}] Erro: O ficheiro com o código está vazio!")
-        return "Empty Code File", False, "Unknown", 0.0
+        return "Empty Code File", False, "Unknown", None, None, 0.0
 
     last_known_run_id = get_latest_run_id(page)
     problem_url = f"https://judge.beecrowd.com/pt/problems/view/{problem_id}"
@@ -473,13 +494,13 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
         if not inserted:
             print(f"[Problema {problem_id}] O código não foi preenchido corretamente no formulário. A abortar envio.")
-            return "Empty Form Error", False, language_used, 0.0
+            return "Empty Form Error", False, language_used, None, None, 0.0
 
         print(f"[Problema {problem_id}] Código verificado no formulário com sucesso!")
         time.sleep(1)
 
         print(f"[Problema {problem_id}] A clicar no botão de submissão...")
-        start_time = time.time()
+        start_time = datetime.now()
 
         submit_btn = page.query_selector('button[type="submit"], input[type="submit"], #btn-submit')
         if submit_btn:
@@ -491,20 +512,21 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
         if is_captcha_blocking(page):
             print(f"[!] [Problema {problem_id}] CAPTCHA exigido após submissão! Pulando para o próximo problema...")
-            return "CAPTCHA Required - Skipped", False, language_used, 0.0
+            return "CAPTCHA Required - Skipped", False, language_used, start_time, datetime.now(), 0.0
 
         status, is_submitted = verify_new_submission(page, problem_id, last_known_run_id)
-        end_time = time.time()
+        end_time = datetime.now()
+        duration_seconds = (end_time - start_time).total_seconds()
 
         if is_submitted:
             is_accepted = check_is_accepted(status)
-            return status, is_accepted, language_used, (end_time - start_time)
+            return status, is_accepted, language_used, start_time, end_time, duration_seconds
         else:
-            return status if status != "Not Submitted" else "Submission Retained / Unconfirmed", False, language_used, 0.0
+            return status if status != "Not Submitted" else "Submission Retained / Unconfirmed", False, language_used, start_time, end_time, 0.0
 
     except Exception as err:
         print(f"[Problema {problem_id}] Erro durante a submissão: {err}")
-        return f"Error: {err}", False, "Unknown", 0.0
+        return f"Error: {err}", False, "Unknown", None, None, 0.0
 
 
 def find_solutions(base_dir: str, problem_map: dict):
@@ -547,9 +569,7 @@ def find_solutions(base_dir: str, problem_map: dict):
                     }
                 )
 
-    # Ordena a lista estritamente pelo ID numérico do problema em ordem crescente (ex: 1000, 1001, 1002...)
     solutions.sort(key=lambda x: x["prob_int"])
-
     return solutions
 
 
@@ -571,7 +591,7 @@ def process_solution_files(page, problem_map: dict, cols_config: dict) -> None:
         with open(item["filepath"], "r", encoding="utf-8") as f:
             code = f.read()
 
-        status, is_accepted, language_used, net_duration = submit_solution(
+        status, is_accepted, language_used, start_time, end_time, duration_seconds = submit_solution(
             page=page,
             problem_id=item["problem_id"],
             code=code,
@@ -588,7 +608,9 @@ def process_solution_files(page, problem_map: dict, cols_config: dict) -> None:
                 language_used=language_used,
                 is_approved=is_accepted,
                 verdict_text=status,
-                duration_seconds=net_duration,
+                start_time=start_time,
+                end_time=end_time,
+                duration_seconds=duration_seconds,
             )
 
         if status == "CAPTCHA Required - Skipped":
