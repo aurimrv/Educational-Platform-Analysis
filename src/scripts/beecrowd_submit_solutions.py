@@ -9,43 +9,43 @@ from dotenv import load_dotenv
 import openpyxl
 from playwright.sync_api import sync_playwright
 
-# Carrega variáveis de ambiente do ficheiro .env
+# Load environment variables from the .env file
 load_dotenv()
 
 BEECROWD_EMAIL = os.getenv("BEECROWD_EMAIL")
 BEECROWD_PASSWORD = os.getenv("BEECROWD_PASSWORD")
-BEECROWD_URL = os.getenv("BEECROWD_URL", "https://judge.beecrowd.com/pt/login")
+BEECROWD_URL = os.getenv("BEECROWD_URL", "https://judge.beecrowd.com/en/login")
 SOLUTIONS_DIR = os.getenv("SOLUTIONS_DIR", "./")
 EXCEL_FILE = os.getenv("EXCEL_FILE", "beecrowd_problems_shared.xlsx")
 USER_DATA_DIR = os.getenv("USER_DATA_DIR", "./browser_session")
 
 
 def apply_stealth(context) -> None:
-    """Injeta scripts de ocultação para mitigar deteções básicas de automação."""
+    """Injects stealth scripts to mitigate basic automation detection."""
     stealth_js = """
     Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     window.navigator.chrome = { runtime: {} };
-    Object.defineProperty(navigator, 'languages', { get: () => ['pt-BR', 'pt', 'en-US', 'en'] });
+    Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en', 'pt-BR', 'pt'] });
     Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
     """
     context.add_init_script(stealth_js)
 
 
 def validate_environment() -> None:
-    """Valida a existência das credenciais e ficheiros essenciais."""
+    """Validates the existence of essential credentials and required files."""
     if not BEECROWD_EMAIL or not BEECROWD_PASSWORD:
-        print("Erro: BEECROWD_EMAIL e BEECROWD_PASSWORD devem estar definidos no ficheiro .env.")
+        print("Error: BEECROWD_EMAIL and BEECROWD_PASSWORD must be defined in the .env file.")
         sys.exit(1)
 
     if not os.path.exists(EXCEL_FILE):
-        print(f"Erro: O ficheiro Excel '{EXCEL_FILE}' não foi encontrado no diretório atual.")
+        print(f"Error: The Excel file '{EXCEL_FILE}' was not found in the current directory.")
         sys.exit(1)
 
 
 def handle_captcha(page, problem_id: str, max_wait_seconds: int = 300) -> float:
     """
-    Detecta CAPTCHAs/Turnstiles VISÍVEIS na tela e aguarda a resolução manual.
-    Retorna a quantidade exata de segundos gastos resolvendo o CAPTCHA.
+    Detects VISIBLE CAPTCHAs/Turnstiles on screen and waits for manual resolution.
+    Returns the exact number of seconds spent solving the CAPTCHA.
     """
     start_wait = time.time()
     captcha_detected = False
@@ -84,11 +84,11 @@ def handle_captcha(page, problem_id: str, max_wait_seconds: int = 300) -> float:
         if is_truly_visible:
             captcha_detected = True
             remaining = int(max_wait_seconds - (time.time() - start_wait))
-            print(f"\r[!] [Problema {problem_id}] CAPTCHA visível detectado! Aguardando resolução no navegador ({remaining}s)... ", end="", flush=True)
+            print(f"\r[!] [Problem {problem_id}] Visible CAPTCHA detected! Waiting for resolution in browser ({remaining}s)... ", end="", flush=True)
             time.sleep(2)
         else:
             if captcha_detected:
-                print(f"\n[!] CAPTCHA resolvido no problema {problem_id}! Retomando automação...")
+                print(f"\n[!] CAPTCHA resolved for problem {problem_id}! Resuming automation...")
                 time.sleep(2)
             break
 
@@ -96,7 +96,7 @@ def handle_captcha(page, problem_id: str, max_wait_seconds: int = 300) -> float:
 
 
 def load_excel_problem_map(excel_path: str):
-    """Mapeia os problemas e colunas da planilha Excel."""
+    """Maps problems and columns from the Excel spreadsheet."""
     wb = openpyxl.load_workbook(excel_path)
     sheet = wb.active
 
@@ -156,7 +156,7 @@ def update_excel_row(
     gross_seconds: float = None,
     net_duration_seconds: float = None,
 ) -> None:
-    """Atualiza a planilha Excel garantindo a inclusão das colunas Start Time, End Time, Time Passed e Execution Time."""
+    """Updates the Excel spreadsheet ensuring the inclusion of Start Time, End Time, Time Passed, and Execution Time columns."""
     wb = openpyxl.load_workbook(excel_path)
     sheet = wb.active
 
@@ -206,18 +206,18 @@ def update_excel_row(
     wb.close()
 
     time_info = (
-        f" | Início: {start_time.strftime('%H:%M:%S') if start_time else 'N/A'}"
-        f" | Fim: {end_time.strftime('%H:%M:%S') if end_time else 'N/A'}"
+        f" | Start: {start_time.strftime('%H:%M:%S') if start_time else 'N/A'}"
+        f" | End: {end_time.strftime('%H:%M:%S') if end_time else 'N/A'}"
         f" | Time Passed: {round(gross_seconds, 2) if gross_seconds is not None else 'N/A'}s"
         f" | Execution Time: {round(net_duration_seconds, 2) if net_duration_seconds is not None else 'N/A'}s"
     )
-    print(f"[Problema {problem_id}] Excel atualizado -> Aprovado: {'Yes' if is_approved else 'No'} | Justificação: '{verdict_text if not is_approved else ''}'{time_info}")
+    print(f"[Problem {problem_id}] Excel updated -> Approved: {'Yes' if is_approved else 'No'} | Justification: '{verdict_text if not is_approved else ''}'{time_info}")
 
 
 def get_latest_run_id(page) -> int:
-    """Mede o ID numérico do topo da página /runs para controlo de submissões."""
+    """Measures the numeric ID at the top of the /runs page for submission tracking."""
     try:
-        runs_url = "https://judge.beecrowd.com/pt/runs"
+        runs_url = "https://judge.beecrowd.com/en/runs"
         if "/runs" not in page.url or "/runs/code/" in page.url:
             page.goto(runs_url, wait_until="commit", timeout=12000)
 
@@ -242,56 +242,56 @@ def get_latest_run_id(page) -> int:
 
 
 def login_to_beecrowd(page) -> bool:
-    """Navega e efetua o login no Beecrowd se a sessão não estiver ativa."""
-    print(f"A navegar para {BEECROWD_URL}...")
+    """Navigates to Beecrowd and logs in if the session is not active."""
+    print(f"Navigating to {BEECROWD_URL}...")
 
     try:
         page.goto(BEECROWD_URL, wait_until="commit", timeout=30000)
     except Exception as err:
-        print(f"Aviso de carregamento inicial: {err}. A tentar novamente...")
+        print(f"Initial loading warning: {err}. Retrying...")
         time.sleep(2)
         try:
             page.goto(BEECROWD_URL, wait_until="commit", timeout=30000)
         except Exception as retry_err:
-            print(f"Erro ao aceder a {BEECROWD_URL}: {retry_err}")
+            print(f"Error accessing {BEECROWD_URL}: {retry_err}")
             return False
 
     time.sleep(2)
 
     if "/login" not in page.url:
-        print("Sessão já iniciada no navegador!")
+        print("Session already active in the browser!")
         return True
 
     try:
-        print("A aguardar formulário de login...")
+        print("Waiting for login form...")
         page.wait_for_selector('input[name="email"]', timeout=15000)
 
-        print("A inserir credenciais...")
+        print("Entering credentials...")
         page.fill('input[name="email"]', BEECROWD_EMAIL)
         page.fill('input[name="password"]', BEECROWD_PASSWORD)
 
-        print("A submeter credenciais...")
+        print("Submitting credentials...")
         page.click('button[type="submit"], input[type="submit"]')
 
         time.sleep(3)
         handle_captcha(page, "Login")
 
         if "/login" not in page.url:
-            print("Login efetuado com sucesso!")
+            print("Login successful!")
             return True
         else:
-            print("A aguardar conclusão do login...")
+            print("Waiting for login completion...")
             page.wait_for_url(lambda url: "/login" not in url, timeout=0)
-            print("Login efetuado com sucesso!")
+            print("Login successful!")
             return True
 
     except Exception as error:
-        print(f"Notificação do processo de login: {error}")
+        print(f"Login process notification: {error}")
         return "/login" not in page.url
 
 
 def select_language(page, file_ext: str, category: str) -> str:
-    """Seleciona a linguagem adequada (Java ou PostgreSQL) no dropdown."""
+    """Selects the appropriate language (Java or PostgreSQL) from the dropdown."""
     is_sql = (file_ext.lower() == ".sql") or (category.upper() == "SQL")
 
     selected_name = page.evaluate(
@@ -337,35 +337,35 @@ def select_language(page, file_ext: str, category: str) -> str:
     )
 
     if selected_name:
-        print(f"Linguagem selecionada: {selected_name}")
+        print(f"Selected language: {selected_name}")
         return selected_name
     else:
         fallback = "PostgreSQL" if is_sql else "Java"
-        print(f"Linguagem não encontrada diretamente; a assumir o valor por defeito ({fallback}).")
+        print(f"Language not found directly; defaulting to {fallback}.")
         return fallback
 
 
 def check_is_accepted(verdict_str: str) -> bool:
-    """Avalia estritamente o veredito da submissão."""
+    """Strictly evaluates the submission verdict."""
     s = verdict_str.strip().lower()
 
     rejection_terms = [
-        "errada", "wrong", "erro", "error", "excedido", 
-        "exceeded", "presentation", "apresentação", "compilação", "compilation", "pending", "unknown", "queue"
+        "wrong", "errada", "error", "erro", "exceeded", 
+        "excedido", "presentation", "apresentação", "compilation", "compilação", "pending", "unknown", "queue"
     ]
     if any(term in s for term in rejection_terms):
         return False
 
-    return "aceito" in s or "accepted" in s
+    return "accepted" in s or "aceito" in s
 
 
 def verify_new_submission(page, problem_id: str, last_known_run_id: int, max_queue_wait_seconds: int = 120) -> tuple[str, bool, float]:
     """
-    Navega para /runs e aguarda na página enquanto o status for 'queue' ou 'processing'.
-    Retorna o veredito, status de confirmação e tempo acumulado de CAPTCHA durante a verificação.
+    Navigates to /runs and waits on the page while status is 'queue' or 'processing'.
+    Returns the verdict, confirmation status, and accumulated CAPTCHA time during verification.
     """
-    runs_url = "https://judge.beecrowd.com/pt/runs"
-    print(f"[Problema {problem_id}] A verificar registo em /runs (Run ID esperado > #{last_known_run_id})...")
+    runs_url = "https://judge.beecrowd.com/en/runs"
+    print(f"[Problem {problem_id}] Checking registry in /runs (Expected Run ID > #{last_known_run_id})...")
 
     start_wait = time.time()
     captcha_time_runs = 0.0
@@ -404,24 +404,24 @@ def verify_new_submission(page, problem_id: str, last_known_run_id: int, max_que
                     status_lower = status.lower()
 
                     if "queue" in status_lower or "processing" in status_lower or "em fila" in status_lower:
-                        print(f"\r[Problema {problem_id}] Submissão em fila (Run #{current_run_id} | Status: '{status}'). Aguardando julgamento final...", end="", flush=True)
+                        print(f"\r[Problem {problem_id}] Submission in queue (Run #{current_run_id} | Status: '{status}'). Waiting for final verdict...", end="", flush=True)
                         time.sleep(4)
                         continue
 
-                    print(f"\n[Problema {problem_id}] Julgamento concluído! Run #{current_run_id} | Status Final: '{status}'")
+                    print(f"\n[Problem {problem_id}] Judgment finished! Run #{current_run_id} | Final Status: '{status}'")
                     return status, True, captcha_time_runs
 
         except Exception as err:
-            print(f"\n[Problema {problem_id}] Aviso durante verificação de envio: {err}")
+            print(f"\n[Problem {problem_id}] Warning during submission verification: {err}")
 
         time.sleep(3)
 
-    print(f"\n[Problema {problem_id}] Tempo limite excedido aguardando julgamento em /runs.")
+    print(f"\n[Problem {problem_id}] Timeout exceeded waiting for judgment in /runs.")
     return "Not Submitted", False, captcha_time_runs
 
 
 def inject_code_into_editor(page, code: str) -> bool:
-    """Injeta o código-fonte no Ace Editor e sincroniza o campo de formulário oculto."""
+    """Injects the source code into Ace Editor and synchronizes the hidden form field."""
     try:
         page.wait_for_selector(".ace_editor, textarea[name='source_code'], #source-code", state="attached", timeout=10000)
         time.sleep(1)
@@ -494,45 +494,45 @@ def inject_code_into_editor(page, code: str) -> bool:
         return content_len > 0
 
     except Exception as err:
-        print(f"Erro ao injetar código no editor: {err}")
+        print(f"Error injecting code into editor: {err}")
         return False
 
 
 def submit_solution(page, problem_id: str, code: str, file_ext: str, category: str) -> tuple[str, bool, str, datetime, datetime, float, float]:
     """
-    Processa a submissão do problema e calcula:
+    Processes the problem submission and calculates:
     - gross_seconds (Time Passed)
-    - net_duration (Execution Time, descontando CAPTCHA)
+    - net_duration (Execution Time, discounting CAPTCHA time)
     """
     if not code or not code.strip():
-        print(f"[Problema {problem_id}] Erro: O ficheiro com o código está vazio!")
+        print(f"[Problem {problem_id}] Error: Solution code file is empty!")
         return "Empty Code File", False, "Unknown", None, None, 0.0, 0.0
 
     last_known_run_id = get_latest_run_id(page)
-    problem_url = f"https://judge.beecrowd.com/pt/problems/view/{problem_id}"
+    problem_url = f"https://judge.beecrowd.com/en/problems/view/{problem_id}"
 
-    print(f"[Problema {problem_id}] A navegar para {problem_url}...")
+    print(f"[Problem {problem_id}] Navigating to {problem_url}...")
     try:
         page.goto(problem_url, wait_until="commit", timeout=20000)
     except Exception as e:
-        print(f"[Problema {problem_id}] Aviso na navegação: {e}")
+        print(f"[Problem {problem_id}] Warning during navigation: {e}")
 
     time.sleep(2)
 
     try:
         language_used = select_language(page, file_ext, category)
 
-        print(f"[Problema {problem_id}] A injetar o código ({len(code)} bytes)...")
+        print(f"[Problem {problem_id}] Injecting code ({len(code)} bytes)...")
         inserted = inject_code_into_editor(page, code)
 
         if not inserted:
-            print(f"[Problema {problem_id}] O código não foi preenchido corretamente no formulário. A abortar envio.")
+            print(f"[Problem {problem_id}] Code was not properly populated in the form. Aborting submission.")
             return "Empty Form Error", False, language_used, None, None, 0.0, 0.0
 
-        print(f"[Problema {problem_id}] Código verificado no formulário com sucesso!")
+        print(f"[Problem {problem_id}] Code verified successfully in form!")
         time.sleep(1)
 
-        print(f"[Problema {problem_id}] A clicar no botão de submissão...")
+        print(f"[Problem {problem_id}] Clicking submit button...")
         start_time = datetime.now()
         start_timestamp = time.time()
 
@@ -544,10 +544,10 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
         time.sleep(3)
 
-        # Aguarda solução se houver CAPTCHA na tela
+        # Wait for resolution if CAPTCHA appears on screen
         captcha_time_submit = handle_captcha(page, problem_id)
 
-        # Aguarda o veredito sair de 'queue' / 'processing' na tela /runs
+        # Wait for status to leave 'queue' / 'processing' on the /runs page
         status, is_submitted, captcha_time_runs = verify_new_submission(page, problem_id, last_known_run_id)
 
         end_time = datetime.now()
@@ -564,12 +564,12 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
             return status if status != "Not Submitted" else "Submission Retained / Unconfirmed", False, language_used, start_time, end_time, gross_seconds, 0.0
 
     except Exception as err:
-        print(f"[Problema {problem_id}] Erro durante a submissão: {err}")
+        print(f"[Problem {problem_id}] Error during submission: {err}")
         return f"Error: {err}", False, "Unknown", None, None, 0.0, 0.0
 
 
 def find_solutions(base_dir: str, problem_map: dict):
-    """Localiza e ordena numericamente os ficheiros de solução correspondentes aos IDs mapeados no Excel."""
+    """Locates and numerically sorts solution files corresponding to IDs mapped in Excel."""
     solutions = []
     base_path = Path(base_dir)
 
@@ -613,18 +613,18 @@ def find_solutions(base_dir: str, problem_map: dict):
 
 
 def process_solution_files(page, problem_map: dict, cols_config: dict) -> None:
-    """Itera sobre todas as soluções pendentes e atualiza a planilha."""
+    """Iterates over all pending solution files and updates the spreadsheet."""
     solutions = find_solutions(SOLUTIONS_DIR, problem_map)
 
     if not solutions:
-        print(f"Nenhum ficheiro de solução encontrado em '{SOLUTIONS_DIR}'.")
+        print(f"No solution files found in '{SOLUTIONS_DIR}'.")
         return
 
-    print(f"Foram encontrados {len(solutions)} ficheiro(s) de solução para processar.")
+    print(f"Found {len(solutions)} solution file(s) to process.")
 
     for item in solutions:
         if item["approved"].strip().lower() == "yes":
-            print(f"\n[Problema {item['problem_id']}] Já se encontra marcado como 'Yes' no Excel. A ignorar.")
+            print(f"\n[Problem {item['problem_id']}] Already marked as 'Yes' in Excel. Skipping.")
             continue
 
         with open(item["filepath"], "r", encoding="utf-8") as f:
@@ -654,19 +654,19 @@ def process_solution_files(page, problem_map: dict, cols_config: dict) -> None:
             )
 
         pause_time = random.uniform(35, 42)
-        print(f"A aguardar {round(pause_time, 1)}s (cooldown do Beecrowd) antes da próxima submissão...")
+        print(f"Waiting {round(pause_time, 1)}s (Beecrowd cooldown) before next submission...")
         time.sleep(pause_time)
 
 
 def main() -> None:
-    """Ponto de entrada do script."""
+    """Script entry point."""
     validate_environment()
 
     problem_map, cols_config = load_excel_problem_map(EXCEL_FILE)
-    print(f"Foram carregadas {len(problem_map)} entradas do ficheiro {EXCEL_FILE}.")
+    print(f"Loaded {len(problem_map)} entries from file {EXCEL_FILE}.")
 
     with sync_playwright() as p:
-        print("A iniciar o Firefox com contexto persistente...")
+        print("Launching Firefox with persistent context...")
         context = p.firefox.launch_persistent_context(
             user_data_dir=USER_DATA_DIR,
             headless=False
@@ -679,7 +679,7 @@ def main() -> None:
         if login_to_beecrowd(page):
             process_solution_files(page, problem_map, cols_config)
 
-        print("\nProcesso concluído. A fechar o navegador...")
+        print("\nProcess finished. Closing browser...")
         time.sleep(3)
         context.close()
 
