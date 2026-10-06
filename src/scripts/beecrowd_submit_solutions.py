@@ -489,7 +489,6 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
         time.sleep(3)
 
-        # Se o clique de envio exibiu CAPTCHA visível na tela, pula o problema imediatamente
         if is_captcha_blocking(page):
             print(f"[!] [Problema {problem_id}] CAPTCHA exigido após submissão! Pulando para o próximo problema...")
             return "CAPTCHA Required - Skipped", False, language_used, 0.0
@@ -509,7 +508,7 @@ def submit_solution(page, problem_id: str, code: str, file_ext: str, category: s
 
 
 def find_solutions(base_dir: str, problem_map: dict):
-    """Localiza ficheiros de solução correspondentes aos IDs mapeados no Excel."""
+    """Localiza e ordena numericamente os ficheiros de solução correspondentes aos IDs mapeados no Excel."""
     solutions = []
     base_path = Path(base_dir)
 
@@ -547,6 +546,9 @@ def find_solutions(base_dir: str, problem_map: dict):
                         "approved": excel_info.get("approved", ""),
                     }
                 )
+
+    # Ordena a lista estritamente pelo ID numérico do problema em ordem crescente (ex: 1000, 1001, 1002...)
+    solutions.sort(key=lambda x: x["prob_int"])
 
     return solutions
 
